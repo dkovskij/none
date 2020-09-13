@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Набор чехлов прогулочного блока для коляски PRIAM III Autumn Gold",
+        "barcode": "1234567890834",
+        "id": "1480183",
+        "link": "https://www.keng.ru/catalog/kolyaski-aksessuary-dlya-kolyasok-smennye-tkanevye-komplekty/cybex-nabor-chekhlov-progulochnogo-bloka-dlya-kolyaski-priam-iii-autumn-gold/",
+        "image": "https://www.keng.ru/upload/resize_cache/iblock/531/333_504_1d7a58ff99b324185ccb5ad5dfbdb5e85/5313caa574061ff80b3dee162f54755a.jpg",
+        "qty": 2,
+        "discount_price": {
+            "currency": "RUB",
+            "value": 0,
+            "formatted": "0.-",
+            "percent": 0
+            
+        },
+        "old_price": {
+            "currency": "RUB",
+            "value": 16499,
+            "formatted": "16 499.-"
+            
+        },
+        "price": {
+            "currency": "RUB",
+            "value": 16499,
+            "formatted": "16 499.-"
+            
+        }
+    },
+    {
+    "barcode": "1234567890923",
+    "id": "1481822",
+    "image": "https://www.keng.ru/upload/resize_cache/iblock/c4c/333_504_1d7a58ff99b324185ccb5ad5dfbdb5e85/c4c1a6b4eff033921cec0a09399412a3.jpg",
+    "link": "https://www.keng.ru/catalog/malchiki-aksessuary-galstuki-i-babochki/gucci-galstuk-babochka-iz-velyura/",
+    "name": "Галстук-бабочка из велюра",
+    "old_price": {"currency": "RUB", "value": 8499, "formatted": "8 499.-"},
+    "discount_price": {"currency": "RUB", "value": 0, "formatted": "0.-", "percent": 0},
+    "price": {"currency": "RUB", "value": 8499, "formatted": "8 499.-"},
+    "qty": 1
+    }
+]
